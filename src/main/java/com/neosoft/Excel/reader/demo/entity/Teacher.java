@@ -23,6 +23,4 @@ public class Teacher {
     private String phoneNumber;
     private String department;
     private LocalDate dateOfJoining;
-
-
 }
